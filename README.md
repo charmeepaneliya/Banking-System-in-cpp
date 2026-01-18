@@ -41,25 +41,30 @@ Menu-driven console application
 -----------------------------------
 🧩 OOP Concepts Used
 ===============================
+
 1. Encapsulation
 ----------------------
 Account balance is kept private
 ------------------------------------
 Accessed and modified using public methods
 ----------------------------------------
+
 2. Inheritance
 ------------------------
 SavingsAccount, CheckingAccount, and FixedDepositAccount inherit from BankAccount
+-------------------------------------------------------------------------------------------------
 
 3. Polymorphism
 ----------------------
 Function overriding using virtual functions
 
 withdraw() and calculateInterest() behave differently for each account type
+-----------------------------------------------------------------------------------
 
 4. Abstraction
 -----------------------------
 Base class BankAccount provides a common interface for all account types
+-------------------------------------------------------------------------------------------
 
 🏗️ Account Types
 ==============================
